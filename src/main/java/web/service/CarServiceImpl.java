@@ -33,7 +33,7 @@ public class CarServiceImpl implements CarService {
     }
 
     @Override
-    public List<Car> getCarList(int count, List<Car> fullList) {
+    public List<Car> getCarList() {
         return null;
     }
 }
